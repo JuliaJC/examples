@@ -1,3 +1,3 @@
-﻿int numberA = 10;
-int numberВ = 5;
+﻿double numberA = 12;
+double numberВ = 5;
 Console.WriteLine(numberA / numberВ );
